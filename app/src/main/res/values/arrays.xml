@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places">
+        <item>Peribahasa</item>
+        <item>Antonim</item>
+        <item>Sinonim</item>
+        <item>Kata Berawalan</item>
+        <item>Kata Dasar</item>
+        <item>Majas</item>
+    </string-array>
+</resources>
